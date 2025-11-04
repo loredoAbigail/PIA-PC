@@ -47,9 +47,9 @@ README.md (se revisará versión completa al final)
  
 | Integrante | Rol o responsabilidad |
 |------------|------------------------|
-| [Cintia Lizeth Salazar Alcocer] | [Ej. adquisición de datos] |
-| [Juan Andres Villarreal Cortez] | [Ej. análisis y parsing] |
-| [Abigail Loredo Torres] | [Redacción y edición de los archivos md junto a las carpetas del repositorio PIA-PC.] |
+| Cintia Lizeth Salazar Alcocer | Ej. adquisición de datos |
+| Juan Andres Villarreal Cortez | Ej. análisis y parsing |
+| Abigail Loredo Torres | Redacción y edición de los archivos md junto a las carpetas del repositorio PIA-PC. |
  
 > Los roles pueden ajustarse conforme evolucione el proyecto.
  
