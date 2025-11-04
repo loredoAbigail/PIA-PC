@@ -5,6 +5,6 @@
 ---
 
 ##  Descripción general del proyecto
-> Breve explicación del propósito, enfoque y tipo de tareas de ciberseguridad que se abordarán.
+> Este proyecto tiene como objetivo analizar y detectar intentos de autenticación en los sistemas, mediante la implementación de tres tareas enfocadas en distintos tipos de detección. El enfoque principal es identificar patrones anómalos o maliciosos en los registros de inicio de sesión.
  
 ---
