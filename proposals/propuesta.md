@@ -47,10 +47,9 @@ README.md (se revisará versión completa al final)
  
 | Integrante | Rol o responsabilidad |
 |------------|------------------------|
-| [Nombre 1] | [Ej. adquisición de datos] |
-| [Nombre 2] | [Ej. análisis y parsing] |
-| [Nombre 3] | [Ej. integración y orquestación] |
-| [Nombre 4] | [Ej. documentación y reportes] |
+| [Cintia Lizeth Salazar Alcocer] | [Ej. adquisición de datos] |
+| [Juan Andres Villarreal Cortez] | [Ej. análisis y parsing] |
+| [Abigail Loredo Torres] | [Ej. integración y orquestación] |
  
 > Los roles pueden ajustarse conforme evolucione el proyecto.
  
