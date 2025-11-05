@@ -72,15 +72,13 @@ Si se detectan múltiples fallos seguidos o intentos desde IPs distintas para un
 - **Dependencias**: Python 3.x, librerías requests, pandas, os, API key definida como variable de entorno (AI_API_KEY).
 ---
  
-##  Estructura inicial del repositorio (ejemplo)
+##  Estructura inicial del repositorio
 /src 
-/docs 
 /examples 
 /proposals 
-/tests 
-/prompts 
 README.md 
-.gitignore
+
+La estructura será editanda con forme el proyecto se vaya avanzando.
  
 
  
