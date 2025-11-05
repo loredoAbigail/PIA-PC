@@ -41,7 +41,5 @@ Compila los resultados de los análisis y crea un reporte automatizado, que incl
 
 ## Declaración ética y legal
 
-*Declaración ética y legal
-
 Todo el trabajo se realiza en un entorno controlado y con datos sintéticos, asegurando el cumplimiento de principios éticos y legales en el manejo de información.
 El proyecto busca fomentar buenas prácticas de ciberseguridad, especialmente en la detección temprana de intrusiones y la protección de sistemas de autenticación.ción temprana de intrusiones y la protección de sistemas de autenticación.
