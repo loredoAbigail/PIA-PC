@@ -1,7 +1,7 @@
 #  Propuesta técnica del proyecto PIA
  
-##  Título del proyecto
-LoginSentinel
+##  LoginSentinel
+Detección y análisis de intentos de autenticación en servicios críticos
  
 ##  Descripción general del proyecto
 LoginSentinel es un proyecto enfocado en la detección de intentos de autenticación y el monitoreo de servicios esenciales en una red (SSH, HTTP y HTTPS).
@@ -60,7 +60,7 @@ Si se detectan múltiples fallos seguidos o intentos desde IPs distintas para un
 - **Controles éticos**: Los logs son totalmente simulados, sin datos reales de usuarios. El análisis se realiza en un entorno académico.
 - **Dependencias**: Python 3.x, librerías json, collections, datetime.
  
-###  Tarea 3 (opcional)
+###  Tarea 3
 - **Título**: Creación de reporte ejecutivo automatizado y enriquecido con IA.
 - **Propósito**: Transformar los resultados técnicos de las tareas previas en un reporte comprensible para analistas o responsables de seguridad, con resúmenes generados mediante una API de inteligencia artificial.
 - **Rol o área relacionada**: Threat Intelligence / SOC Reporting.
@@ -80,9 +80,8 @@ README.md
 
 La estructura será editanda con forme el proyecto se vaya avanzando.
  
-
  
-##  Evidencia de colaboración inicial (elegir uno o más)
+##  Evidencia de colaboración inicial
  
 - [ ] Commits realizados por más de un integrante
 - [ ] Issues creados para organizar tareas
