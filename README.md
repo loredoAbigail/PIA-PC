@@ -22,8 +22,11 @@ Compila los resultados de los análisis y crea un reporte automatizado, que incl
 
 
 --Asignación de roles del equipo--
+
 -Cintia Lizeth Salazar Alcocer ------> Descubrimiento y escaneo de hosts + documentación del procedimiento.
+
 -Abigail Loredo Torres ------> Análisis de intentos de autenticación + genera findings.csv/json.
+
 -Juan Andrés Villarreal Cortez ------> Generación de reportes y resumen con IA + crea executive_summary.md y logs.
 
 
