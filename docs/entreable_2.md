@@ -6,7 +6,7 @@
  
 ##  Tarea implementada
  
-- **Nombre de la tarea**: [Ej. Inventario de servicios expuestos]
+- **Nombre de la tarea**: Descubrimiento de hosts y detección de puertos abiertos.
 - **Descripción funcional**:  
 > [Narración objetiva de lo que hace la tarea: qué entradas recibe, qué procesamiento realiza, qué salidas genera.]
  
