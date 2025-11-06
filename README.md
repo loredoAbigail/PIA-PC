@@ -24,6 +24,9 @@ Examina registros simulados de accesos exitosos y fallidos, detectando patrones 
 Compila los resultados de los análisis y crea un reporte automatizado, que incluye un resumen ejecutivo generado por IA, con observaciones y recomendaciones para fortalecer la seguridad de acceso.
 
 
+## Estado del Proyecto
+
+
 
 ---
 
