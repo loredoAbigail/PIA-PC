@@ -1,0 +1,19 @@
+#Datos simulados
+
+{
+  "total de ips": 6,
+  "fallos_totales": 18,
+  "exitos totales": 9,
+  "alertas": [
+    {
+      "Ip": "10.0.x.x",
+      "Intentos fallidos": 8,
+      "Alerta": "Posible fuerza bruta detectada"
+    },
+    {
+      "Ip": "192.x.x.x",
+      "Intentos fallidos": 4,
+      "Alerta": "Posible fuerza bruta detectada"
+    }
+  ]
+}
