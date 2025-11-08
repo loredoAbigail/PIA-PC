@@ -26,7 +26,7 @@ Compila los resultados de los análisis y crea un reporte automatizado, que incl
 
 ## Estado del Proyecto
 
-
+Proyecto al 70% completado, tarea #3 completada y bien ejecutada.
 
 ---
 
