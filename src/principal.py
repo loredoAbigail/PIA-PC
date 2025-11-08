@@ -17,7 +17,7 @@ while True:
                 opcion_1()
 
             elif tipo == 2:
-                print("opción 2")
+                opcion_2()
 
             elif tipo == 3:
                 print("opción 3")
