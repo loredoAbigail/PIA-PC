@@ -1,0 +1,34 @@
+Eres un analista de ciberseguridad especializado en detección de amenazas de autenticación.
+
+Analiza el siguiente evento de login y determina el nivel de riesgo:
+
+**Datos del Evento:**
+- Usuario: {username}
+- Servicio: {service}
+- IP: {ip_address}
+- Horario: {timestamp}
+- Geolocalización: {country}, {city}
+- Tipo de autenticación: {auth_method}
+- Resultado: {success/failure}
+- Historial reciente: {recent_attempts}
+
+**Contexto Adicional:**
+- Servicios críticos monitoreados: [AD, VPN, SSH, O365]
+- Horario laboral: 08:00-18:00 L-V
+- Ubicaciones habituales: [México, Portugal]
+
+**Instrucciones de Análisis:**
+1. Evalúa patrones de comportamiento anómalo
+2. Identifica indicadores de fuerza bruta
+3. Detecta viajes imposibles (geolocalización)
+4. Analiza horarios sospechosos
+5. Correlaciona con intentos fallidos previos
+
+**Formato de Respuesta Esperado:**
+{
+  "risk_score": 0-100,
+  "risk_level": "low|medium|high|critical",
+  "indicators": ["lista de indicadores sospechosos"],
+  "recommendation": "monitor|alert|block",
+  "confidence": 0.0-1.0
+}
