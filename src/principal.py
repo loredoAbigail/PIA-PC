@@ -1,4 +1,5 @@
 from run_tarea1 import opcion_1
+from run_tarea2 import opcion_2
 
 # MENÚ
 print("-------BIENVENIDO A LOGINSENTINEL-------.\nEste es un proyecto enfocado en la detección de intentos de autenticación \
