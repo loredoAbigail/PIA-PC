@@ -49,4 +49,4 @@ Todo el equipo contribuyo con la creación del script, haciendo de este al mismo
  
 > ¿Qué falta por pulir antes de la entrega final? ¿Qué decisiones técnicas se tomaron? ¿Qué se aprendió en esta etapa?
 
-Sólo nos faltaría pulir el GitHub, agregar datos finales y acomodar ciertas cosas.
+Sólo nos faltaría pulir el GitHub, agregar datos finales y acomodar ciertas cosas. Tomamos la decisión de cambiar de IA, a una IA pública, una simulación. Aprendimos a usar una API pública para darle más contexto a los datos, por ejemplo, saber de dónde proviene una IP o a qué organización pertenece.
