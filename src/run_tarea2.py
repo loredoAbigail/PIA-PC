@@ -5,7 +5,7 @@ from collections import defaultdict
 
 def opcion_2():
     # Ruta del archivo exportado desde PowerShell con el registro de ips, fallos, éxitos y fechas
-    CSV_PATH = r"C:\\Users\\usuario\\Desktop\\pia08\\registro_eventos.csv"
+    CSV_PATH = r"C:\\-----\\registro_eventos.csv"
 
     # Expresión regular para extraer la IP desde el texto del evento
     ip_re = re.compile(r'\d{1,3}(?:\.\d{1,3}){3}')
@@ -47,7 +47,8 @@ def opcion_2():
         "alertas": alerts
     }
     #Ruta del archivo JSON con el resumen
-    with open("c:\\Users\\usuario\\Desktop\\pia08\\_analisis.json", "w", encoding="utf-8") as f:
+    with open("c:\\------\\_analisis.json", "w", encoding="utf-8") as f:
         json.dump(report, f, indent=4)
 
     print("Análisis completado. Resultado guardado en carpeta.")
+
