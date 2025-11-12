@@ -1,5 +1,6 @@
 from run_tarea1 import opcion_1
 from run_tarea2 import opcion_2
+from run_tarea3 import opcion_3
 
 # MENÚ
 print("-------BIENVENIDO A LOGINSENTINEL-------.\nEste es un proyecto enfocado en la detección de intentos de autenticación \
@@ -21,7 +22,7 @@ while True:
                 opcion_2()
 
             elif tipo == 3:
-                print("opción 3")
+                opcion_3()
             
             break
 
