@@ -15,8 +15,10 @@
 ##  IA integrada funcionalmente
  
 - **Modelo/API utilizado**: [Ej. GPT-4, Azure OpenAI, simulación]
+ Usamos simulación, una IA pública.
 - **Punto de integración**:  
 > ¿Dónde se invoca la IA dentro del flujo técnico?
+La IA pública se invoca en la tarea 3 que nos ayuda a analizar los datos de la salida de la tarea 2, y también a enriquecer éstos datos para una mejor presentación.
  
 - **Ejemplo de entrada/salida**:  
 > [Mostrar un ejemplo concreto de cómo se usa la IA en el proyecto]
@@ -41,8 +43,10 @@
  
 > ¿Quién trabajó en esta etapa? ¿Qué evidencia hay en GitHub (commits, issues, PRs)? ¿Cómo se distribuyeron los ajustes finales?
  
----
+Todo el equipo contribuyo con la creación del script, haciendo de este al mismo tiempo estando todos al pendiente del mismo.
  
 ##  Observaciones
  
 > ¿Qué falta por pulir antes de la entrega final? ¿Qué decisiones técnicas se tomaron? ¿Qué se aprendió en esta etapa?
+
+Sólo nos faltaría pulir el GitHub, agregar datos finales y acomodar ciertas cosas.
