@@ -1,0 +1,18 @@
+#Ejemplos simulados
+
+ {
+    "ip": "45.83.22.17",
+    "pais": "United States",
+    "region": "Virginia",
+    "organizacion": "Example ISP LLC",
+    "estatus": "success",
+    "reason": ""
+  },
+  {
+    "ip": "88.45.13.99",
+    "pais": "Germany",
+    "region": "Bavaria",
+    "organizacion": "SomeNet GmbH",
+    "estatus": "success",
+    "reason": ""
+  }
