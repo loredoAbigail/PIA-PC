@@ -25,8 +25,7 @@ Finalmente, la tarea 3 toma esas alertas (desde el archivo JSON de la tarea 2) y
 La IA pública se invoca en la tarea 3 que nos ayuda a analizar los datos de la salida de la tarea 2, y también a enriquecer éstos datos para una mejor presentación.
  
 - **Ejemplo de entrada/salida**:  
-En este proyecto la IA se usa de forma complementaria para ayudar a analizar y enriquecer la información.
-Por ejemplo, se aprovecha una API externa con capacidades de análisis automático, que interpreta las IPs sospechosas y devuelve datos relevantes como país, región u organización sin que el usuario tenga que hacerlo manualmente.
+
  
 ---
  
