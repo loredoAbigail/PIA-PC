@@ -36,7 +36,7 @@ Proyecto al 70% completado, tarea #3 completada y bien ejecutada.
 |------------|-----------------------|
 | Cintia Lizeth Salazar Alcocer | Descubrimiento y escaneo de hosts + documentación del procedimiento.|
 | Abigail Loredo Torres | Análisis de intentos de autenticación + genera findings.csv/json. |
-| Juan Andrés Villarreal Cortez | Generación de reportes y resumen con IA + crea executive_summary.md y logs. |
+| Juan Andrés Villarreal Cortéz | Generación de reportes y resumen con IA + crea executive_summary.md y logs. |
 
 
 
