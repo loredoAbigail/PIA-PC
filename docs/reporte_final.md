@@ -43,5 +43,5 @@
  
 - Fecha del último commit: [2025-11-13 19:50]
 
-- Usuario responsable del cierre: [Nombre de quien hizo el último commit]
+- Usuario responsable del cierre: [Juan Andrés Villarreal Cortéz]
  
