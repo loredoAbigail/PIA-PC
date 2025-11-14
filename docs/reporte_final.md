@@ -6,8 +6,7 @@
  
 ##  Cambios en tareas técnicas
  
-> ¿Se modificó, reemplazó o eliminó alguna tarea respecto a lo propuesto originalmente?  
-> Describir qué tarea fue afectada, por qué, y qué se hizo en su lugar.
+> Ninguna tarea fue eliminada o editada a lo largo del proyecto, se mantuvo al margen de nuestra propuesta, haciendolo todo funcionable y combinable.
  
 ---
  
@@ -20,8 +19,7 @@
  
 ##  Cambios en roles o distribución del trabajo
  
-> ¿Hubo reasignación de responsabilidades dentro del equipo?  
-> Describir cómo se reorganizó el trabajo y qué impacto tuvo.
+> El unico cambio que hubo en los roles principales, es que cada uno tuvo que ayudarse entre si, vaya, nada se hizo en solitario pero si teniamos que apoyarnos constantemente por errores o mismos mal entendidos.
  
 ---
  
